@@ -6,6 +6,8 @@
 
 # Why PieFi?
 
+PieFi is a **Quick Settings Tile**.
+
 With PieFi you can regain control of your Wi-Fi, saving battery, data, and finally rest easy to get a good night's sleep.
 
 In addition to the option being unavailable, starting from Android Pie, Wi-Fi cannot be modified if Airplane Mode is on, hence the name _PieFi._
