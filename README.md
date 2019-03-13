@@ -6,9 +6,12 @@
 
 # Why PieFi?
 
-With PieFi you can regain control of your Wi-Fi, saving battery, data. and finally rest easy to get a good night's sleep.
+With PieFi you can regain control of your Wi-Fi, saving battery, data, and finally rest easy to get a good night's sleep.
 
-In addition to the option being unavailable, starting from Android Pie, Wi-Fi cannot be modified if Airplane Mode is on, hence the name _PieFi._ This is a problem to anyone who regularly uses it like I do.
+In addition to the option being unavailable, starting from Android Pie, Wi-Fi cannot be modified if Airplane Mode is on, hence the name _PieFi._
+
+This is a problem to anyone who regularly uses it like I do.
+
 *This additional feature requires root.*
 
 # Download
