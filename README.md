@@ -14,6 +14,7 @@ This is a problem to anyone who regularly uses it like I do.
 *This additional feature requires root.*
 
 # Download
+Available in the [releases](https://github.com/inshiro/piefi/releases) page.
 
 # License
 
