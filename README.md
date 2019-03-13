@@ -2,7 +2,7 @@
 <p><img align="left" src="https://i.postimg.cc/7Y6xjw79/ic-launcher-round.png" > <h1>PieFi</h1>Automatic Wi-Fi sleep toggle.<br>Your Wi-Fi sleeping habits restored.<br><br></p>
 
 #
-<p>Starting from Android Oreo the <i>"Keep Wi-Fi on during sleep"</i> setting was removed and thus PieFi was born.<br></p>
+<p>Starting from Android Oreo the <i>"Keep Wi-Fi on during sleep"</i> setting was removed and thus PieFi was born.<br><br><br></p>
 
 # Why PieFi?
 
