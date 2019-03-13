@@ -1,6 +1,6 @@
 
 <img align="left" src="https://i.postimg.cc/7Y6xjw79/ic-launcher-round.png">
-<div style="text-align: left"><font size="14"><br>&emsp; <b>PieFi</b></br></font></div>
+<div style="text-align: left"><br>&emsp; <b><font size="24">PieFi</font></b></br></div>
 <div style="text-align: left">&emsp; &emsp; Automatic Wi-Fi sleep toggle.</div>
 <div style="text-align: left">&emsp; &emsp; Your Wi-Fi sleeping habits restored.</div>
 
@@ -9,7 +9,7 @@
 
 # Why PieFi?
 
-With PieFi you can regain control of your Wi-Fi, saving battery, data. and overall good night's sleep.
+With PieFi you can regain control of your Wi-Fi, saving battery, data. and rest easy to get a good night's sleep.
 
 In addition to the option being unavailable, starting from Android Pie, Wi-Fi cannot be modified if Airplane Mode is on, hence the name _PieFi._ This is a problem to anyone who regularly uses it like I do.
 *This additional feature requires root.*
