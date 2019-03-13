@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196f3</color>
+    <color name="colorPrimaryDark">#288ddc</color>
+
+    <!-- This sets the navbar color on a Material theme style -->
+    <color name="colorAccent">@color/colorPrimaryDark</color>
+
+    <color name="colorAccentDefault">#E91E63</color>
+    <color name="colorAccentDark">#C2185B</color>
+    <color name="colorCardStroke">#1D000000</color>
+</resources>

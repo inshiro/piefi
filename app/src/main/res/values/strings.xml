@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PieFi</string>
+
+    <string name="notification_text">Tap to display when to put Wi-Fi to sleep</string>
+
+    <string name="tile_content_description">Turn Wi-Fi on or off</string>
+    <string name="tile_label">Wi-Fi Sleep</string>
+
+    <string name="dialog_title">Keep Wi-Fi on during sleep</string>
+    <string name="selector_always">Always</string>
+    <string name="selector_plugged_in">Only when plugged in</string>
+    <string name="selector_never">Never</string>
+
+    <string name="root_required">Root required</string>
+    <string name="root_required_message">Starting from Android Oreo, the Wi-Fi cannot be changed while Airplane mode is on. If you want to do so, please grant root access.</string>
+</resources>

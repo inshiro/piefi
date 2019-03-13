@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item>
+        <shape>
+            <size android:height="120dp" android:width="120dp"/>
+            <solid android:color="@color/colorPrimary"/>
+        </shape>
+    </item>
+    <item
+        android:width="120dp"
+        android:height="120dp"
+        android:drawable="@drawable/ic_time"
+        android:top="120dp"
+        android:bottom="20dp"
+        android:left="200dp"
+        android:right="120dp"
+        tools:targetApi="m"
+        tools:ignore="UnusedAttribute" />
+    <item android:drawable="@drawable/ic_wifi_rotate" />
+</layer-list>
