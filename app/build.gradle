@@ -2,19 +2,15 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
-ext.versionRelease = 1
-ext.versionBreaking = 0
-ext.versionFeature = 0
-ext.versionFix = 0
-
 android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "na.komi.piefi"
         minSdkVersion 24
         targetSdkVersion 28
-        versionCode generateVersionCode()
-        versionName generateVersionName()
+        versionCode 1010
+        versionName "0.1.0"
+        vectorDrawables.useSupportLibrary = true
         testInstrumentationRunner "androidx.test.ext.junit.runners.AndroidJUnit4"
     }
     buildTypes {
@@ -83,17 +79,6 @@ android {
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
-    defaultConfig {
-        vectorDrawables.useSupportLibrary = true
-    }
-}
-
-private Integer generateVersionCode() {
-    return ext.versionRelease * 10000000 + ext.versionBreaking * 10000 + ext.versionFeature * 100 + ext.versionFix
-}
-
-private String generateVersionName() {
-    return "${ext.versionRelease}.${ext.versionBreaking}.${ext.versionFeature}.${ext.versionFix}"
 }
 
 dependencies {
