@@ -16,7 +16,13 @@ This is a problem to anyone who regularly uses it like I do.
 *This additional feature requires root.*
 
 # Download
-Available in the [releases](https://github.com/inshiro/piefi/releases) page.
+Available on the Google Play Store.
+
+<a href="https://play.google.com/store/apps/details?id=na.komi.piefi">
+    <img alt="Get it on Google Play"
+        height="90"
+        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
+</a>
 
 # License
 
